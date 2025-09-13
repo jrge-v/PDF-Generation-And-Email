@@ -3,5 +3,5 @@ You work for a company that sells second hand cars. Management wants to get a su
 
 ## What you'll do
 - Write a script that summarizes and processes sales data into different categories
-- Generate a PDF named "A Complete Inventory of My Fruit" using Python
+- Generate a PDF named "cars.pdf" using Python
 - Automatically send a PDF by email
